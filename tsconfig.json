@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",         
+    "esModuleInterop": true,  
+    "forceConsistentCasingInFileNames": true, 
+    "strict": true,                                   
+    "noImplicitAny": true,                       
+    "strictNullChecks": true,                        
+    "strictFunctionTypes": true,        
+    "skipLibCheck": true  
+  },
+  "include": ["src/**/*.ts", "src/**/*.d.ts", "src/**/*.tsx", "src/**/*.vue"]
+}
